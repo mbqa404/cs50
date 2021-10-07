@@ -18,6 +18,17 @@
     text-decoration: underline;
 }
    
+.logo-container{
+    min-height: 92px
+}
+.logo-container > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search-field{
+    padding: 20px;
+}
 .search-field-container{
     background: #fff;
     display: flex;
